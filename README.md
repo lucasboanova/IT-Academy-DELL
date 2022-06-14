@@ -12,3 +12,9 @@ Charset, mesmo sabendo que era um fator opcional decidi me empenhar em
 utiliza-lo, pois com ele o usuário pode procurar por caracteres com acento. Já o 
 gráfico de porcentagem, foi desafiante deixa-lo com uma formatação agradável 
 ao usuário.
+
+Proposta de projeto e arquivo CSV para Ler.
+
+[IT16 - Instruções Exercício Técnico.pdf](https://github.com/lucasboanova/IT-Academy-DELL/files/8895674/IT16.-.Instrucoes.Exercicio.Tecnico.pdf)
+
+[TA_PRECO_MEDICAMENTO.csv](https://github.com/lucasboanova/IT-Academy-DELL/files/8895676/TA_PRECO_MEDICAMENTO.csv)
